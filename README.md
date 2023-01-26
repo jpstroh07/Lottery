@@ -1,0 +1,2 @@
+# Lottery
+Basic lotto application
